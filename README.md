@@ -8,6 +8,13 @@
 
 ---
 
+## 📽️ Video Walkthrough
+Experience the autonomous journey from shipment inquiry to geocoded carrier matching.
+
+https://www.loom.com/share/2510081dbcdd4b06837108e71227b847
+
+---
+
 ## 🚀 The Solution: Neural Logistics Orchestration
 In traditional logistics, teams are buried under a mountain of unstructured emails, messy spreadsheets, and portal notifications. This project is a **Full-Scale Autonomous Logistics Intelligence System** that functions as a 24/7 digital dispatcher. 🤖📈
 
