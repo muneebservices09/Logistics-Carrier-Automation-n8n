@@ -1,4 +1,4 @@
-# 📦 Logistics-Carrier-Automation-n8n: The Autonomous Dispatcher 🚚💨
+# 📦 Logistics-Carrier-Automation-n8n: The Autonomous Dispatcher 
 
 ![n8n](https://img.shields.io/badge/Workflow-n8n-FF6C37?style=flat&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/AI-GPT--4o-412991?style=flat&logo=openai&logoColor=white)
@@ -97,7 +97,6 @@ The system closes the value loop without human touch:
 
 ## ✍️ Author
 **Muneeb Ali Khan**
-- **GitHub:** [@Muneeb20019](https://github.com/Muneeb20019)
 - **LinkedIn:** [Muneeb Ali Khan](https://www.linkedin.com/in/muneeb-ali-khan-2a1675365)
 
 ---
